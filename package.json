@@ -1,0 +1,14 @@
+{
+  "name": "@lingeringcode/heatmap-of-the-rhetoric-composition-and-technical-communi",
+  "main": "main.js",
+  "version": "279.0.0",
+  "homepage": "https://observablehq.com/@lingeringcode/heatmap-of-the-rhetoric-composition-and-technical-communi",
+  "author": {
+    "name": "Chris Lindgren",
+    "url": "https://observablehq.com/@lingeringcode"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
